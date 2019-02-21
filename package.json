@@ -1,6 +1,6 @@
 {
-	"name": "react-native-label-select",
-	"version": "1.1.0",
+	"name": "react-native-label-select-v2",
+	"version": "1.0.0",
 	"description": "A label select component for React Native apps",
 	"keywords": [
 		"label",
@@ -10,19 +10,19 @@
 	],
 	"main": "LabelSelect/index.js",
 	"author": {
-		"name": "wytiny",
-		"url": "http://wytiny.com"
+		"name": "Gleidson Daniel",
+		"url": "https://github.com/GleidsonDaniel"
 	},
 	"maintainers": [
 		{
-			"name": "wytiny",
-			"email": "zjutiny@gmail.com"
+			"name": "Daniel Silva",
+			"email": "gleidson10daniel@gmail.com"
 		}
 	],
 	"bugs": {
-		"url": "https://github.com/Tinysymphony/react-native-label-select/issues"
+		"url": "https://github.com/GleidsonDaniel/react-native-label-select-v2"
 	},
-	"homepage": "https://github.com/Tinysymphony/react-native-label-select#readme",
+	"homepage": "https://github.com/GleidsonDaniel/react-native-label-select-v2",
 	"license": "MIT",
 	"scripts": {
 		"start": "react-native start",

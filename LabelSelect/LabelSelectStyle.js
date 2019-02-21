@@ -1,7 +1,3 @@
-/**
- * Created by TinySymphony on 2017-01-03.
- */
-
 import {Dimensions, StyleSheet} from 'react-native';
 const window = Dimensions.get('window');
 const {width, height, scale} = window;

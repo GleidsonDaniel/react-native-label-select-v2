@@ -1,7 +1,3 @@
-/**
- * Created by TinySymphony on 2017-01-03.
- */
-
 import React, {Component} from 'react';
 import {
   View,
